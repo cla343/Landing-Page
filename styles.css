@@ -2,7 +2,9 @@
 
 }
 
-.header {}
+.header {
+    background-color: #1f2937;
+}
 
 .body-1 {
     background-color: #1f2937;
@@ -10,6 +12,12 @@
 
 .body-2 {}
 
-.body-3 {}
+.body-3 {
+    background-color: #e5e7eb;
+}
 
-.footer {}
+.body-4 {}
+
+.footer {
+    background-color: #1f2937;
+}
